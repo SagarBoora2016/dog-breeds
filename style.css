@@ -26,12 +26,17 @@ form button{
 select option{
     font-size: 1.2rem;
     padding:8px;
+    margin:8px;
 }
 #drop-down{
     order:1;
 }
 #btn{
     order:10;
+}
+#btn i{
+    margin-left:8px;
+    font-size: 1.2rem;
 }
 #drop-down-second{
     order:5;
